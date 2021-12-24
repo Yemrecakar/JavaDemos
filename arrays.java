@@ -20,7 +20,7 @@ class Main {
                 sod = sod + arr[i];
             }
         }
-        /* www.tasarimkodlama.com */
+        
         System.out.print("\nÇift Sayılar :" + se);
         System.out.print("\nTek Sayılar :" + sod);
  
